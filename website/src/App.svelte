@@ -6,9 +6,9 @@
 	<video src="instruction.mp4"></video>
 	<p>
 		<span class="big-num">1</span>
-		<a href="firefox">Download Firefox Extension</a><br>
+		<a href="https://addons.mozilla.org/en-US/firefox/addon/chessrun/">Download Firefox Extension</a>(Chrome Extension coming soon)<br>
 		<span class="big-num">2</span>
-		<a href="download_app">Download Native App</a><br>
+		<a href="https://github.com/etopiei/chessrun/releases/tag/v1.0.5">Download Native App for Windows, Linux or macOS</a><br>
 		<span class="big-num">3</span>
 		Start Native App + Connect to Extension<br>
 		<span class="big-num">4</span>
