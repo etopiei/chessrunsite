@@ -1,12 +1,12 @@
 <main>
 	<h1>ChessRun</h1>
+	<img src="chessrun.png" alt="ChessRun Logo" width="200px">
 	<p>A tool for speed-running chess.</p>
 	<a href="https://leaderboard.chessrun.net"><button>Go To Leaderboard</button></a>
 	<h3>How to Use</h3>
-	<video src="instruction.mp4"></video>
 	<p>
 		<span class="big-num">1</span>
-		<a href="https://addons.mozilla.org/en-US/firefox/addon/chessrun/">Download Firefox Extension</a>(Chrome Extension coming soon)<br>
+		<a href="https://addons.mozilla.org/en-US/firefox/addon/chessrun/">Download Firefox Extension</a> or <a href="https://chrome.google.com/webstore/detail/chessrun/bdkklpihkekdeamkfnbfejaidgknajgh?hl=en">Chrome Extension</a><br>
 		<span class="big-num">2</span>
 		<a href="https://github.com/etopiei/chessrun/releases/tag/v1.0.5">Download Native App for Windows, Linux or macOS</a><br>
 		<span class="big-num">3</span>
